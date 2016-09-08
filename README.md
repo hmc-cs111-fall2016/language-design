@@ -1,4 +1,4 @@
-[Teams]: https://github.com/hmc-cs111-spring2016/language-design/wiki/Teams
+[Teams]: https://github.com/hmc-cs111-fall2016/language-design/wiki/Teams
 [BetterDesign]: https://www.fastcodesign.com/1665735/why-arent-computer-programming-languages-designed-better
 [APIPDF]: https://dl.acm.org/citation.cfm?id=1176617.1176622&coll=DL&dl=GUIDE&CFID=372348918&CFTOKEN=51331222
 [APITalk]: https://www.youtube.com/watch?v=aAb7hSCtvGw
