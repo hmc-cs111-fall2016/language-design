@@ -34,7 +34,7 @@ you know a poorly designed language? What are the symptoms?
 
 **Question**
 
-How do the themes of _Growing a Language_ relate to the lab we did this week?
+How do the themes of _Growing a Language_ relate to the "sound lab" we did this week?
 
 **Response**
 
@@ -65,12 +65,8 @@ What does the post on grayscale tell us about the process of API design?
 
 **Question**
 
-The comments on the Pavlus article seem to set up a conflict between
-professional programmers and everyone else. What is the essence of this
-conflict? Do you sympathize more with the substance of the article's arguments
-or with the substance of the majority of the commenters' arguments? Do you
-sympathize more with the tenor of the article or the tenor of the majority of
-the commenters?
+The Yang and Rabkin article talks mainly about general-purpose languages. In 
+what ways do the themes apply to the study and creation of DSLs?
 
 **Response**
 
