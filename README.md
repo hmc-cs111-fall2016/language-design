@@ -12,8 +12,8 @@
 [Perl]: https://dl.acm.org/citation.cfm?id=2089159&CFID=578519747&CFTOKEN=43192998
 
 # Language Design
-###### _Submission deadline: Wednesday, Feb. 3 at 11:59pm_
-###### _Critique deadline: Friday, Feb. 5 at 11:59pm_
+###### _Submission deadline: Wednesday, Sept. 14 at 11:59pm_
+###### _Critique deadline: Friday, Sept. 16 at 11:59pm_
 
 In this assignment, we'll focus language design. The goals are to:
 
