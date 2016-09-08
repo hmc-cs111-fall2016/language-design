@@ -106,7 +106,7 @@ additional readings:
       + Raises the question: Is Perl's syntax design any better than a randomly
       designed syntax?
 
-_*These papers belongs to the Association for Computing Machinery's digital
+_*These papers belong to the Association for Computing Machinery's digital
 library. You should be able to access them from any computer on the Claremont
 Colleges' network. If you have trouble accessing, please post on Piazza._
 
