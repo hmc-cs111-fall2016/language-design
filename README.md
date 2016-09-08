@@ -94,19 +94,19 @@ Good responses (i.e., responses that receive a 3) will:
 Great responses (i.e., responses that receive a 4) will go a bit beyond, e.g.,
 by using (and citing) a source outside of the readings. Here are some excellent 
 additional readings:
-   + [_When and How to Develop Domain-Specific Languages_][WhenAndHow] by
+   + [_When and How to Develop Domain-Specific Languages_][WhenAndHow]* by
    Marjan Mernik, Jan Heering, and Anthony M. Sloane
       + cite as: [Mernik _et al._, 2005]
       + Of most interest might be sections 1 and 2.
    + [_aRrgh: a newcomer’s (angry) guide to R_][aRrgh] by Tim Smith
       + cite as: [Smith, 2016]
-   + [_An empirical comparison of the accuracy rates of novices using the quorum, perl, and randomo programming languages_][Perl] by Andreas Stefik, Susanna Siebert, 
+   + [_An empirical comparison of the accuracy rates of novices using the quorum, perl, and randomo programming languages_][Perl]* by Andreas Stefik, Susanna Siebert, 
    Melissa Stefik, and Kim Slattery
       + cite as: [Stefik _et al._, 2011]
       + Raises the question: Is Perl's syntax design any better than a randomly
       designed syntax?
 
-_*This paper belongs to the Association for Computing Machinery's digital
+_*These papers belongs to the Association for Computing Machinery's digital
 library. You should be able to access them from any computer on the Claremont
 Colleges' network. If you have trouble accessing, please post on Piazza._
 
